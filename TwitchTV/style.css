@@ -1,0 +1,32 @@
+.background {
+  background-color: lightblue;
+}
+
+/*.title {*/
+/*  font-size: 50px;*/
+/*  position: relative;*/
+/*  left: 3%;*/
+  
+/*}*/
+
+.box {
+  position: relative;
+  background-color: #9ca0ad;
+  left: 100px;
+  top: 50px;
+}
+
+#image1 {
+  position: relative;
+  height: 200px;
+  width: 200px;
+  /*left: 50px;*/
+  /*top: 10px;*/
+  border-radius: 40px;
+}
+
+#header1 {
+  position: relative;
+  left: 175px;
+  font-size: 30px;
+}
